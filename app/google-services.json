@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408160235445",
+    "project_id": "barbershop-b32e4",
+    "storage_bucket": "barbershop-b32e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408160235445:android:a1c547526fcdcda0b1b3fc",
+        "android_client_info": {
+          "package_name": "com.example.agendabarba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGfmA2tajqU0SnAGjgGI3WCsiJ1opIMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
